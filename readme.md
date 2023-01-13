@@ -1,6 +1,6 @@
-#Lab 1 Finshed
+# Lab 1 Finshed
 
-##Cobi Stancik :)
+## Cobi Stancik :)
 
 ### Lab 1: command line and git
 
