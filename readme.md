@@ -1,4 +1,8 @@
-# Lab 1: command line and git
+#Lab 1 Finshed
+
+##Cobi Stancik :)
+
+### Lab 1: command line and git
 
 This lab contains two exercises:
 
